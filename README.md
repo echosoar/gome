@@ -1,2 +1,2 @@
 # Go Me
-this is my go study demo
+this my go study demo
