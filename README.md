@@ -1,4 +1,4 @@
 # Go Me
 
-this is my golang study demo
+This is my golang study demo
 
